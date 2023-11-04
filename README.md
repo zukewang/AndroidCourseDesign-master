@@ -1,7 +1,6 @@
-# viewnews111
+# viewnews
 安卓课设开发项目-看点新闻App
 演示传送门：[av79880165](https://www.bilibili.com/video/av79880165/)
-
 
 
 ## 注意事项
